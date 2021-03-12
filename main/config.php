@@ -1,7 +1,7 @@
 <?php
     // webhook link
-    $webhook = "https://discord.com/api/webhooks/817325900579471391/mq0hTuZiH1gIdKm8O8SgRF7Pyu7lpKgOBFYHMJHuZe4l7AJDxt6Kpxx28h3PUVQwpWTU";
-    // fake developer for the bot the users may contact
+    $webhook = "ur webhook here";
+    
     $discord_contact = "";
     
     $allowed_origins = array(
